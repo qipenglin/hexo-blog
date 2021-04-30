@@ -95,9 +95,9 @@ exclude:
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
+## Plugins: https://hexo.io/plugins/g
 ## Themes: https://hexo.io/themes/
-theme:casper 
+theme: casper 
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
