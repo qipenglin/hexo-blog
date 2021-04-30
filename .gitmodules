@@ -1,3 +1,6 @@
 [submodule "themes/casper"]
 	path = themes/casper
 	url = https://github.com/kywk/hexo-theme-casper.git
+[submodule "themes/indigo"]
+	path = themes/indigo
+	url = https://github.com/yscoder/hexo-theme-indigo.git
